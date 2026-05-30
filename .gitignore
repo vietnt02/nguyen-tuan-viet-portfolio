@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vite/
+.env
+.env.*
+*.local
+*.log
+vite-dev-server.log
+vite-dev-server.err.log
+portfolio-home.png
+*.tsbuildinfo
