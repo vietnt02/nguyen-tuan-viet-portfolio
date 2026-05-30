@@ -10,6 +10,7 @@
 - Verified lint and production build.
 - Fixed review findings for color contrast, external link hardening, font privacy, and visual ARIA semantics.
 - Verified browser render and PDF response on local Vite server.
+- Added redeploy smoke-test commit trigger.
 
 ## Open Questions
 
